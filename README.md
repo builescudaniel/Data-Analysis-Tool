@@ -1,6 +1,8 @@
 # Data-Analysis-Tool
 Dynamic Data Analysis Tool: An interactive Dash application for data analysis, including handling missing values, normalization, outlier detection, feature importance calculation, and various visualization tools such as correlation heatmaps and scatter plots.
 
+![screencapture-127-0-0-1-8050-2023-05-17-16_46_48](https://github.com/builescudaniel/Data-Analysis-Tool/assets/72610125/ae8d7385-79b3-47e4-b906-e61001340c43)
+
 # Dynamic Data Analysis Tool
 
 This project presents an interactive Dash application for comprehensive data analysis. The tool includes several data preprocessing steps (like handling missing values, normalization), advanced analysis techniques (outlier detection, feature importance calculation), and various visualization tools (correlation heatmaps, scatter plots, and more).
